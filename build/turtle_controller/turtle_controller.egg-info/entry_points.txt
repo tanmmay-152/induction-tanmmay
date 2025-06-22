@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_publisher = turtle_controller.turtle_publisher:main
+
