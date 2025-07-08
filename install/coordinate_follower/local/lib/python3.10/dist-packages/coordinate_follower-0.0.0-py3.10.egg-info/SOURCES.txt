@@ -1,1 +1,0 @@
-/home/tanmmay/clean_induction/induction-tanmmay/build/coordinate_follower/ament_cmake_python/coordinate_follower/coordinate_follower.egg-info/SOURCES.txt

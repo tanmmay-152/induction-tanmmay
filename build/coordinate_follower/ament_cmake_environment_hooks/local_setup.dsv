@@ -1,4 +1,0 @@
-source;share/coordinate_follower/environment/ament_prefix_path.sh
-source;share/coordinate_follower/environment/library_path.sh
-source;share/coordinate_follower/environment/path.sh
-source;share/coordinate_follower/environment/pythonpath.sh
