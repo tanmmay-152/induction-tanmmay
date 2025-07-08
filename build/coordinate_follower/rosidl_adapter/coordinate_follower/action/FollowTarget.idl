@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from coordinate_follower/action/FollowTarget.action
+// generated code does not contain a copyright notice
+
+
+module coordinate_follower {
+  module action {
+    struct FollowTarget_Goal {
+      double x;
+
+      double y;
+    };
+    struct FollowTarget_Result {
+      boolean success;
+
+      string message;
+    };
+    @verbatim (language="comment", text=
+      "(empty feedback)")
+    struct FollowTarget_Feedback {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

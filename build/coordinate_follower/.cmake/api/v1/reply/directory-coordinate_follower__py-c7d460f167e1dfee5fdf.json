@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "coordinate_follower__py",
+		"source" : "/home/tanmmay/clean_induction/induction-tanmmay/build/coordinate_follower/coordinate_follower__py"
+	}
+}

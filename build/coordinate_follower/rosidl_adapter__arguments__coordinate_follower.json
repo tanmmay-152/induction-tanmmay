@@ -1,0 +1,6 @@
+{
+  "package_name": "coordinate_follower",
+  "non_idl_tuples": [
+    "/home/tanmmay/clean_induction/induction-tanmmay/src/coordinate_follower:action/FollowTarget.action"
+  ]
+}
