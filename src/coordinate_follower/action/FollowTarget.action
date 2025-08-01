@@ -4,4 +4,6 @@ float64 y
 bool success
 string message
 ---
-# (empty feedback)
+float64 current_x
+float64 current_y
+float64 distance_remaining
