@@ -51,7 +51,7 @@ class FollowTargetClient(Node):
 def main():
     rclpy.init()
     client = FollowTargetClient()
-    client.send_goals_from_file('/home/your_user/ros2_ws/src/coordinate_follower/scripts/coordinates.txt')
+    client.send_goals_from_file('/home/tanmmay/clean_induction/induction-tanmmay/src/coordinate_follower/scripts/coordinates.txt')
     client.destroy_node()
     rclpy.shutdown()
 
